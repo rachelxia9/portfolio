@@ -1,3 +1,3 @@
 # My Design Portfolio
 
-Currently in development. Projects will be added as I work on them.
+currently in development, website will be updated as I learn more about web dev and ux.
