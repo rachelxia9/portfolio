@@ -173,7 +173,14 @@ header {
     margin-bottom: 20px;
     margin-top: 50px;
     font-weight: bold;
+    color:#030008;
 }
+
+.project-norm-text a:link {
+  color: #030008;
+  text-decoration: none;
+}
+
 
 .aritzia {
     width: 40%;
@@ -258,6 +265,14 @@ header {
 
   }
 
+  .card-image-small{
+    height: 50%; 
+    width: 50%;
+    opacity: 100%;
+    margin-left: 70px;
+    border-radius: 20px;
+  }
+
   .card .tags {
     display: flex;
   }
@@ -332,3 +347,7 @@ header {
     padding: 10px;
     
   }
+
+  #smallbox {
+    cursor: pointer;
+}
