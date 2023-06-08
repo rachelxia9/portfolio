@@ -1,3 +1,1 @@
-UX Portfolio
-
-projects i've worked on!
+in progress - some projects i've worked on!
